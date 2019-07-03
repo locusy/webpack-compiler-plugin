@@ -1,0 +1,19 @@
+{
+  "name": "compiler-plugin-tian",
+  "version": "1.0.0",
+  "description": "a custom webpack plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/locusy/compiler-plugin-tian.git"
+  },
+  "author": "tianzhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/locusy/compiler-plugin-tian/issues"
+  },
+  "homepage": "https://github.com/locusy/compiler-plugin-tian#readme"
+}
